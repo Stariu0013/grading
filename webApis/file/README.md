@@ -19,7 +19,7 @@ Allow to read files from disk, or accept file with methods:
 * readAsDataURL(blob) – read the binary data and encode it as base64 data url.
 * abort() – cancel the operation.
 
-**FormData** uses to collect data from form and send them through network.
+**FormData** used to collect data from form and send them through network.
 Methods: 
 * .append(key, value)
 * .append(name, blob, fileName)
